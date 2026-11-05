@@ -21,10 +21,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibnuandmyself&show_icons=true&theme=tokyonight" alt="Ibnu's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuandmyself&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+![Ibnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnuandmyself&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuandmyself&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
