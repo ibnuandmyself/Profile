@@ -21,9 +21,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Ibnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnuandmyself&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuandmyself&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnuandmyself&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
 ---
 
 ### 📬 Hubungi Saya
