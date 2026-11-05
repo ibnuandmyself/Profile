@@ -20,18 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <!-- Kartu Streak / Konsistensi Commit -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnuandmyself&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150" />
-</p>
-
-<p align="left">
-  <!-- Kartu Pencapaian / Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ibnuandmyself&theme=tokyonight&no-frame=false&margin-w=4" alt="GitHub Trophies" />
-</p>
----
-
 ### 📬 Hubungi Saya
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d4niiajaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibnuandmyself)
