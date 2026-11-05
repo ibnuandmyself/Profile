@@ -22,7 +22,13 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnuandmyself&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <!-- Kartu Streak / Konsistensi Commit -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnuandmyself&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150" />
+</p>
+
+<p align="left">
+  <!-- Kartu Pencapaian / Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ibnuandmyself&theme=tokyonight&no-frame=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 ---
 
